@@ -40,7 +40,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>⚛️🔥💬 ©️2022   <a href="https://github.com/Somu878">Somu878</a>  </h1>
+        <h1>⚛️🔥💬 ©️2022   <a href="https://github.com/Somu878">Somu</a>  </h1>
         <SignOut />
       </header>
       <section>
