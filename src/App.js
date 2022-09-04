@@ -59,7 +59,7 @@ function SignIn() {
   return (
     <>
       <button className="sign-in" onClick={signInWithGoogle}>Sign in with Google</button>
-      <p>©️2022   <a href="https://github.com/Somu878">Somu</a>  </p>
+      <p>©️2022 Bring into being by <a href="https://github.com/Somu878">SOMU</a>  </p>
     </>
   )
 
